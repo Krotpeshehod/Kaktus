@@ -1,12 +1,19 @@
 .header__text {
   margin: 0;
-  padding: 0;
   margin-top: 30px;
   margin-bottom: 20px;
+  padding: 0;
 
+  color: #000000;
+
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 12px;
+
+  padding: 10px 20px;
+ 
   max-width: 600px;
 
-  font-weight: 400;
+  font-weight: 500;
   font-size: 17px;
   letter-spacing: 1px;
   line-height: 25px;
@@ -19,9 +26,9 @@
 
 @media screen and (min-width: 768px) {
   .header__text {
-    padding-right: 0;
     font-size: 20px;
     letter-spacing: 0.5px;
     line-height: 30px;
+    padding: 10px 50px ;
   }
 }
