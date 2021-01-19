@@ -7,8 +7,6 @@
   font-size: 30px;
   letter-spacing: 3px;
   line-height: 35px;
-
-  text-shadow: 2px 2px 2px black;
 }
 
 @media screen and (min-width: 768px) {

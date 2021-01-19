@@ -7,25 +7,11 @@
 
   margin: 20px 0 30px;
   color: #000000;
-
-  animation: pulsing 10s infinite;
 }
 
-@media screen and (min-width: 768px){
-  .social-cooperation__link{
-      font-size: 25px;
-  line-height: 30px;
-  }
-}
-
-@keyframes pulsing {
-  0% {
-    transform: scale(1, 1);
-  }
-  50% {
-    transform: scale(0.9, 0.9);
-  }
-  100% {
-    transform: scale(1, 1);
+@media screen and (min-width: 768px) {
+  .social-cooperation__link {
+    font-size: 25px;
+    line-height: 30px;
   }
 }
