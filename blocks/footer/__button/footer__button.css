@@ -1,0 +1,21 @@
+.footer__button {
+  position: fixed;
+  right: 30px;
+  bottom: 30px;
+
+  background-color: unset;
+  background-size: cover;
+  cursor: pointer;
+
+  align-self: center;
+  border: unset;
+
+  width: 30px;
+  height: 30px;
+  transform: rotate(180deg);
+
+  opacity: 0;
+  transition: all .3s ease-in-out;
+  visibility: hidden;
+}
+

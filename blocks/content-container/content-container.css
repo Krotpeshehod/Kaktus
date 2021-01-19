@@ -1,0 +1,8 @@
+.content-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  background: linear-gradient(rgb(255, 255, 255, 0.9), rgba(255, 255, 255, 0.9)),url(../../images/cinema-4998849_1280.png);
+  background-size: 280px;
+}

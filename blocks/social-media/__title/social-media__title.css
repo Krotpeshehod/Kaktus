@@ -1,0 +1,16 @@
+.social-media__title {
+  font-weight: 400;
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 40px;
+  text-align: center;
+
+  margin: 0;
+}
+
+@media screen and (min-width: 768px) {
+  .social-media__title {
+    font-size: 30px;
+    line-height: 50px;
+  }
+}

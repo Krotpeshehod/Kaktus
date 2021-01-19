@@ -1,0 +1,17 @@
+.header__about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: space-between;
+  height: 100%;
+
+  padding: 0 20px;
+  z-index: 1;
+}
+
+@media screen and (min-width: 900px) {
+  .header__about {
+    padding: 0;
+  }
+}

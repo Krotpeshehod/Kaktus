@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Volkorno";
+  src: url(./volkorno/Vollkorn-Regular.ttf) format("woff2"),
+  url(./volkorno/Vollkorn-Regular.ttf) format("woff"),
+  url(./volkorno/Vollkorn-Regular.ttf) format("truetype");
+
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "Volkorno";
+  src: url(./volkorno/Vollkorn-Medium.ttf) format("woff2"),
+  url(./volkorno/Vollkorn-Medium.ttf) format("woff"),
+  url(./volkorno/Vollkorn-Medium.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Volkorno";
+  src: url(./volkorno/Vollkorn-Bold.ttf) format("woff2"),
+  url(./volkorno/Vollkorn-Bold.ttf) format("woff"),
+  url(./volkorno/Vollkorn-Bold.ttf) format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
