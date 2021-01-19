@@ -2,7 +2,7 @@
   cursor: pointer;
   text-decoration: none;
   color: #ffffff;
-  -webkit-tap-background-color: unset;
+  background-color: none;
   border: unset;
 
   font-weight: 700;
