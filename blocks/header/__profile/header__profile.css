@@ -2,7 +2,8 @@
   cursor: pointer;
   text-decoration: none;
   color: #ffffff;
-  background-color: transparent;
+  background-color: unset;
+  border: unset;
 
   font-weight: 700;
 }
