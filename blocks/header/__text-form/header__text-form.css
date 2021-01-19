@@ -1,0 +1,8 @@
+.header__text-form {
+  margin: 0;
+  margin-bottom: 20px;
+}
+
+.header__text-form:last-of-type {
+  margin-bottom: 0;
+}

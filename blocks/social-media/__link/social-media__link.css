@@ -1,0 +1,10 @@
+.social-media__link{
+display: flex;
+flex-direction: column;
+margin: 0;
+margin-bottom: 20px;
+}
+
+.social-media__link:last-child{
+    margin-bottom: 0;
+}

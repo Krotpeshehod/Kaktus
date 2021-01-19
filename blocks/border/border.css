@@ -1,0 +1,9 @@
+.border {
+  margin: 20px 0;
+
+  border: 1px solid transparent;
+  border-image: linear-gradient(to left, white, black, white);
+
+  border-image-slice: 1;
+  width: 100%;
+}

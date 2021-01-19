@@ -1,0 +1,48 @@
+@import url(../vendor/normalize.css);
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/page/page.css);
+@import url(../blocks/border/border.css);
+@import url(../blocks/link-opacity/link-opacity.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__about/header__about.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__title-span/header__title-span.css);
+@import url(../blocks/header/__text/header__text.css);
+@import url(../blocks/header/__text-form/header__text-form.css);
+@import url(../blocks/header/__profile/header__profile.css);
+@import url(../blocks/header/__iframe/header__iframe.css);
+@import url(../blocks/header/__button/header__button.css);
+
+@import url(../blocks/content-container/content-container.css);
+@import url(../blocks/content/content.css);
+
+@import url(../blocks/social-media/social-media.css);
+@import url(../blocks/social-media/__title/social-media__title.css);
+@import url(../blocks/social-media/__elements/social-media__elements.css);
+@import url(../blocks/social-media/__element/social-media__element.css);
+@import url(../blocks/social-media/__element/_place/social-media__element_place_apple.css);
+@import url(../blocks/social-media/__element/_place/social-media__element_place_deezer.css);
+@import url(../blocks/social-media/__element/_place/social-media__element_place_google.css);
+@import url(../blocks/social-media/__element/_place/social-media__element_place_player.css);
+@import url(../blocks/social-media/__element/_place/social-media__element_place_podster.css);
+@import url(../blocks/social-media/__element/_place/social-media__element_place_rss.css);
+@import url(../blocks/social-media/__element/_place/social-media__element_place_spotify.css);
+@import url(../blocks/social-media/__element/_place/social-media__element_place_yandex.css);
+@import url(../blocks/social-media/__link/social-media__link.css);
+@import url(../blocks/social-media/__logo/social-media__logo.css);
+@import url(../blocks/social-media/__subtitle/social-media__subtitle.css);
+
+@import url(../blocks/social-networks/social-networks.css);
+@import url(../blocks/social-networks/__link/social-networks__link.css);
+@import url(../blocks/social-networks/__logo/social-networks__logo.css);
+
+@import url(../blocks/social-cooperation/social-cooperation.css);
+@import url(../blocks/social-cooperation/__link/social-cooperation__link.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__author/footer__author.css);
+@import url(../blocks/footer/__button/footer__button.css);
+@import url(../blocks/footer/__button/_visible/footer__button_visible.css);
