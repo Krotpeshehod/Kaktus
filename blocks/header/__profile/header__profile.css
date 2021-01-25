@@ -1,9 +1,15 @@
 .header__profile {
-  cursor: pointer;
   text-decoration: none;
   color: #ffffff;
   background-color: none;
   border: unset;
 
   font-weight: 700;
+  font-size: 21px;
+}
+
+@media screen and (min-width: 768px) {
+  .header__profile {
+    font-size: 23px;
+  }
 }

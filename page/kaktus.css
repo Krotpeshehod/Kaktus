@@ -23,14 +23,6 @@
 @import url(../blocks/social-media/__title/social-media__title.css);
 @import url(../blocks/social-media/__elements/social-media__elements.css);
 @import url(../blocks/social-media/__element/social-media__element.css);
-@import url(../blocks/social-media/__element/_place/social-media__element_place_apple.css);
-@import url(../blocks/social-media/__element/_place/social-media__element_place_deezer.css);
-@import url(../blocks/social-media/__element/_place/social-media__element_place_google.css);
-@import url(../blocks/social-media/__element/_place/social-media__element_place_player.css);
-@import url(../blocks/social-media/__element/_place/social-media__element_place_podster.css);
-@import url(../blocks/social-media/__element/_place/social-media__element_place_rss.css);
-@import url(../blocks/social-media/__element/_place/social-media__element_place_spotify.css);
-@import url(../blocks/social-media/__element/_place/social-media__element_place_yandex.css);
 @import url(../blocks/social-media/__link/social-media__link.css);
 @import url(../blocks/social-media/__logo/social-media__logo.css);
 @import url(../blocks/social-media/__subtitle/social-media__subtitle.css);
